@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/vectorstores/*
+!data/vectorstores/.gitkeep
+firebase-service-account.json
+.venv/
